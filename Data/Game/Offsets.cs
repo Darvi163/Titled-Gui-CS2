@@ -73,3 +73,4 @@
         public static int m_GunGameImmunityColor = 0x0;
     }
 }
+
